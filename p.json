@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Gearsetter",
+    "InternalName": "Gearsetter",
+    "AssemblyVersion": "1.3",
+    "Description": "Browse through all gear pieces available for each class/job and show possible upgrades",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://git.carvel.li/liza/Gearsetter",
+    "Tags": [
+      "gearset",
+      "gearsets"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://plugins.carvel.li/icons/Gearsetter.png",
+    "Punchline": "Find gear upgrades",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 11,
+    "DownloadCount": 9607,
+    "LastUpdate": 1732208246,
+    "DownloadLinkInstall": "https://git.carvel.li/liza/Gearsetter/releases/download/v1.3/Gearsetter-1.3.zip",
+    "DownloadLinkUpdate": "https://git.carvel.li/liza/Gearsetter/releases/download/v1.3/Gearsetter-1.3.zip",
+    "Changelog": "Update IPC method ('Gearsetter.GetRecommendationsForGearset') to additionally return the item slot that should be replaced",
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]
