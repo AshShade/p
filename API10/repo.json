@@ -18,12 +18,37 @@
     "IconUrl": "https://plugins.carvel.li/icons/Gearsetter.png",
     "Punchline": "Find gear upgrades",
     "AcceptsFeedback": false,
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 10,
     "DownloadCount": 9607,
     "LastUpdate": 1732208246,
     "DownloadLinkInstall": "https://git.carvel.li/liza/Gearsetter/releases/download/v1.3/Gearsetter-1.3.zip",
     "DownloadLinkUpdate": "https://git.carvel.li/liza/Gearsetter/releases/download/v1.3/Gearsetter-1.3.zip",
     "Changelog": "Update IPC method ('Gearsetter.GetRecommendationsForGearset') to additionally return the item slot that should be replaced",
+    "IsHide": false,
+    "IsTestingExclusive": false
+  },
+  {
+    "Author": "кайт машина (Puni.sh)",
+    "Name": "Avarice",
+    "InternalName": "Avarice",
+    "AssemblyVersion": "2.1.0.4",
+    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/PunishXIV/Avarice",
+    "Tags": [
+      "combat"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://love.puni.sh/resources/avarice.png",
+    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "AcceptsFeedback": false,
+    "LastUpdate": 1732208246,
+    "DownloadLinkInstall": "https://github.com/AshShade/p/raw/main/API10/Avarice/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AshShade/p/raw/main/API10/Avarice/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false
   }
